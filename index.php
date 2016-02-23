@@ -18,4 +18,8 @@ class index {
         echo 'hello world';
     }
 
+    public function se() {
+        echo "hello world";
+    }
+
 }
