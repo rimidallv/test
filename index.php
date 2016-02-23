@@ -20,6 +20,7 @@ class index {
 
     public function se() {
         echo "hello world";
+        echo "hi";
     }
 
 }
